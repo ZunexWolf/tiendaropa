@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+
+.div-padre {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+}
+
+.div-hijo {
+    text-align: center;
+    margin: 25px;
+    width: 200px;
+    height: 250px;
+    background-color: greenyellow;
+}
